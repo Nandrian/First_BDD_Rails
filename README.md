@@ -1,2 +1,2 @@
-# First_BDD_Rails
+# First_DB_Rails
 RAILS DB
